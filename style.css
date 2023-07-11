@@ -4,7 +4,7 @@ body {
 
 h1 {
   font-family: "Lobster Two", cursive;
-  font-size: 10rem;
+  font-size: 8rem;
   color: #4ecca3;
 }
 
@@ -16,13 +16,8 @@ h1 {
 
 .dice-container {
   display: flex;
-  justify-content: center;
-  justify-content: space-evenly;
+  justify-content: space-around;
   margin-bottom: 100px;
-}
-
-.invisible {
-  visibility: hidden;
 }
 
 .paragraph-container {
@@ -33,7 +28,7 @@ h1 {
 
 p {
   font-family: "Indie Flower", cursive;
-  font-size: 3rem;
+  font-size: 4rem;
   color: #4ecca3;
 }
 
